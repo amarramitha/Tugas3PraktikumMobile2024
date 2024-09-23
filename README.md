@@ -18,6 +18,6 @@ Jadi, setelah pengguna berhasil login, aplikasi menggunakan Navigator.pushReplac
 
 Lampiran:
 ![Login](login.png)
-![Login](dashboard.png)
-![Login](settings.png)
-![Login](about.png)
+![Dashboard](dashboard.png)
+![Setting](settings.png)
+![About](about.png)
